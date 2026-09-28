@@ -1,0 +1,114 @@
+
+================================================================================
+[2026-09-28 15:12:30] --- NEW SESSION STARTED (Multi-Utility Toolkit) ---
+================================================================================
+
+[2026-09-28 15:12:30] OUTPUT: Welcome To Multi-Utility Toolkit
+[2026-09-28 15:12:30] OUTPUT: Enter your Choice Here...
+
+================================================================================
+[2026-09-28 15:13:07] --- NEW SESSION STARTED (Multi-Utility Toolkit) ---
+================================================================================
+
+[2026-09-28 15:13:07] OUTPUT: Welcome To Multi-Utility Toolkit
+[2026-09-28 15:13:07] OUTPUT: Enter your Choice Here...
+[2026-09-28 15:13:10] USER INPUT [Enter your Choice Here]: 1
+
+--------------------------------------------------
+[2026-09-28 15:13:10] >>> ENTERED MODULE: DATETIME OPERATIONS
+--------------------------------------------------
+
+[2026-09-28 15:13:10] OUTPUT: Enter Your Choice Here....
+[2026-09-28 15:13:13] USER INPUT [Enter Your Choice Here]: 2
+[2026-09-28 15:13:13] OUTPUT: Enter first Your date (YYYY-MM-DD)
+[2026-09-28 15:13:23] USER INPUT [Enter first Your date (YYYY-MM-DD)]: 2005-12-24
+[2026-09-28 15:13:23] OUTPUT: Enter Secound Your date (YYYY-MM-DD)
+[2026-09-28 15:13:27] USER INPUT [Enter Secound Your date (YYYY-MM-DD)]: 2005-12-21
+[2026-09-28 15:13:27] OUTPUT: Diffenece: 3 Days
+[2026-09-28 15:13:27] OUTPUT: Enter Your Choice Here....
+
+================================================================================
+[2026-09-28 15:18:21] --- NEW SESSION STARTED (Multi-Utility Toolkit) ---
+================================================================================
+
+[2026-09-28 15:18:21] OUTPUT: Welcome To Multi-Utility Toolkit
+[2026-09-28 15:18:21] OUTPUT: Enter your Choice Here...
+[2026-09-28 15:18:25] USER INPUT [Enter your Choice Here]: 1
+
+--------------------------------------------------
+[2026-09-28 15:18:25] >>> ENTERED MODULE: DATETIME OPERATIONS
+--------------------------------------------------
+
+[2026-09-28 15:18:25] OUTPUT: Datetime and Time Operation
+
+1. Display Current Date and Time
+2. Calculate Difference Between Two Dates
+3. Format Date into Custom Format
+4. Stopwatch
+5. Countdown Timer
+6. Back To Main Menu
+[2026-09-28 15:18:25] OUTPUT: Enter Your Choice Here....
+
+================================================================================
+[2026-09-28 22:21:29] --- NEW SESSION STARTED (Multi-Utility Toolkit) ---
+================================================================================
+
+[2026-09-28 22:21:29] OUTPUT: Welcome To Multi-Utility Toolkit
+[2026-09-28 22:21:29] OUTPUT: Enter your Choice Here...
+[2026-09-28 22:21:49] USER INPUT [Enter your Choice Here]: 1
+
+--------------------------------------------------
+[2026-09-28 22:21:49] >>> ENTERED MODULE: DATETIME OPERATIONS
+--------------------------------------------------
+
+[2026-09-28 22:21:49] OUTPUT: Datetime and Time Operation
+
+1. Display Current Date and Time
+2. Calculate Difference Between Two Dates
+3. Format Date into Custom Format
+4. Stopwatch
+5. Countdown Timer
+6. Back To Main Menu
+[2026-09-28 22:21:49] OUTPUT: Enter Your Choice Here....
+[2026-09-28 22:21:52] USER INPUT [Enter Your Choice Here]: 1
+[2026-09-28 22:21:52] OUTPUT: The Current Date and Time is : 2026-09-28 22:21:52.250860
+[2026-09-28 22:21:52] OUTPUT: Datetime and Time Operation
+
+1. Display Current Date and Time
+2. Calculate Difference Between Two Dates
+3. Format Date into Custom Format
+4. Stopwatch
+5. Countdown Timer
+6. Back To Main Menu
+[2026-09-28 22:21:52] OUTPUT: Enter Your Choice Here....
+[2026-09-28 22:21:55] USER INPUT [Enter Your Choice Here]: 4
+[2026-09-28 22:21:55] OUTPUT: Press Enter To start the Timer..
+[2026-09-28 22:21:57] USER INPUT [Press Enter To start the Timer]: 
+[2026-09-28 22:21:57] OUTPUT: Press Enter To stop  the Timer..
+[2026-09-28 22:22:00] USER INPUT [Press Enter To stop  the Timer]: 
+[2026-09-28 22:22:00] OUTPUT: Your Total Timing is 2.522286 Secound
+[2026-09-28 22:22:00] OUTPUT: Datetime and Time Operation
+
+1. Display Current Date and Time
+2. Calculate Difference Between Two Dates
+3. Format Date into Custom Format
+4. Stopwatch
+5. Countdown Timer
+6. Back To Main Menu
+[2026-09-28 22:22:00] OUTPUT: Enter Your Choice Here....
+[2026-09-28 22:22:06] USER INPUT [Enter Your Choice Here]: 6
+[2026-09-28 22:22:06] OUTPUT: Going back to the main menu
+[2026-09-28 22:22:06] OUTPUT: Press Enter to Re-Enter into the Program
+[2026-09-28 22:22:14] USER INPUT [Press Enter to Re-Enter into the Program]: 
+[2026-09-28 22:22:14] OUTPUT: Welcome To Multi-Utility Toolkit
+[2026-09-28 22:22:14] OUTPUT: Enter your Choice Here...
+[2026-09-28 22:22:18] USER INPUT [Enter your Choice Here]: 3
+
+--------------------------------------------------
+[2026-09-28 22:22:18] >>> ENTERED MODULE: RANDOM DATA GENERATION
+--------------------------------------------------
+
+[2026-09-28 22:22:18] OUTPUT: Enter your choice:
+[2026-09-28 22:22:22] USER INPUT [Enter your choice:]: 1
+[2026-09-28 22:22:22] OUTPUT: Your random Number is: 86
+[2026-09-28 22:22:22] OUTPUT: Enter your choice:
